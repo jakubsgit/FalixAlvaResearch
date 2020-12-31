@@ -13,10 +13,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/meetalva/component-library-starter/issues"
-  },
-  "homepage": "https://github.com/meetalva/component-library-starter#readme",
   "dependencies": {
     "@types/react": "^16.7.17",
     "@types/react-dom": "^16.0.11",
